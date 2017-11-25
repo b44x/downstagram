@@ -27,7 +27,7 @@
   "dependencies": {
     "configstore": "^3.1.0",
     "inherits": "^2.0.3",
-    "instagram-node-lib": "~0.1.1",
+    "instagram-node-lib": "https://github.com/zunman/instagram-node-lib/tarball/master",
     "minimist": "^1.2.0",
     "open": "~0.0.5",
     "pace": "~0.0.4",
